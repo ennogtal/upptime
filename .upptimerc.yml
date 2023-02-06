@@ -7,8 +7,6 @@ sites:
     url: $SWS_A71EA9
   - name: Service A79A7C
     url: $SWS_A79A7C
-  - name: Service DB5761
-    url: $SWS_DB5761
 
 status-website:
   theme: dark
