@@ -4,9 +4,9 @@
     "url": "$SWS_A71EA9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "service-a71-ea-9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 628,
     "timeMonth": 607,
     "timeYear": 681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "Service A79A7C",
