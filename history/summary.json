@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 673,
-    "timeWeek": 580,
+    "timeDay": 0,
+    "timeWeek": 599,
     "timeMonth": 608,
     "timeYear": 677,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "$SWS_A79A7C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "service-a79-a7-c",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 560,
-    "timeWeek": 438,
-    "timeMonth": 407,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 339,
+    "timeDay": 466,
+    "timeWeek": 457,
+    "timeMonth": 408,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2023-06-11": 0
+      "2023-06-11": 60
     }
   }
 ]
