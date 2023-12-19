@@ -25,8 +25,8 @@
     "url": "$SWS_A79A7C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "service-a79-a7-c",
-    "status": "up",
-    "uptime": "98.69%",
+    "status": "down",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.10%",
@@ -37,6 +37,7 @@
     "timeMonth": 419,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-11-23": 575,
       "2023-11-22": 1440,
       "2023-11-21": 571,
