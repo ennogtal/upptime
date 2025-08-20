@@ -7,10 +7,19 @@ sites:
     url: https://ennogtal.com
   - name: BNP0YzcD
     url: $S_BNP0YzcD
+    expectedStatusCodes:
+      - 302
+      - 200
   - name: Caq7vF3a
     url: $S_Caq7vF3a
+    expectedStatusCodes:
+      - 302
+      - 200
   - name: BW2cdq3i
     url: $S_BW2cdq3i
+    expectedStatusCodes:
+      - 302
+      - 200
 
 status-website:
   theme: dark
