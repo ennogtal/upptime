@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 685,
-    "timeWeek": 685,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 674,
+    "timeDay": 674,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bnp-0-yzc-d",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 701,
     "timeDay": 701,
     "timeWeek": 701,
     "timeMonth": 701,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Caq7vF3a",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 629,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "time": 648,
+    "timeDay": 648,
+    "timeWeek": 648,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 685,
-    "timeWeek": 685,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 640,
+    "timeDay": 640,
+    "timeWeek": 640,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   }
 ]
