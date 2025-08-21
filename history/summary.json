@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bnp-0-yzc-d",
     "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6977,
     "timeDay": 6977,
     "timeWeek": 6977,
     "timeMonth": 6977,
     "timeYear": 6977,
-    "dailyMinutesDown": {
-      "2025-08-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Caq7vF3a",
