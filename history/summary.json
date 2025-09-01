@@ -24,19 +24,19 @@
     "url": "$S_BNP0YZCD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bnp-0-yzc-d",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3604,
-    "timeDay": 10249,
-    "timeWeek": 3685,
-    "timeMonth": 3604,
-    "timeYear": 3604,
+    "status": "up",
+    "uptime": "97.15%",
+    "uptimeDay": "66.78%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
+    "time": 3438,
+    "timeDay": 7148,
+    "timeWeek": 3381,
+    "timeMonth": 3438,
+    "timeYear": 3438,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 478
     }
   },
   {
