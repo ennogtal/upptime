@@ -6,7 +6,7 @@ sites:
   - name: Landing page
     url: https://ennogtal.com
   - name: AoEWtEF4
-    url: $S_AoEWtEF4
+    url: $S_AOEWTEF4
     expectedStatusCodes:
       - 200
   - name: 1RMxcPPy
