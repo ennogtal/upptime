@@ -10,7 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: 1RMxcPPy
-    url: $S_1RMxcPPy
+    url: $S_1RMXCPPY
     expectedStatusCodes:
       - 200
 
