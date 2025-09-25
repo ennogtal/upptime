@@ -5,20 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Landing page
     url: https://ennogtal.com
-  - name: BNP0YzcD
-    url: $S_BNP0YZCD
+  - name: AoEWtEF4
+    url: $S_AoEWtEF4
     expectedStatusCodes:
-      - 302
       - 200
-  - name: Caq7vF3a
-    url: $S_CAQ7VF3A
+  - name: 1RMxcPPy
+    url: $S_1RMxcPPy
     expectedStatusCodes:
-      - 302
-      - 200
-  - name: BW2cdq3i
-    url: $S_BW2CDQ3I
-    expectedStatusCodes:
-      - 302
       - 200
 
 status-website:
